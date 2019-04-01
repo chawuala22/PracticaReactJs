@@ -1,0 +1,23 @@
+{
+    "todos": [
+        {
+            "tittle": "Tarea 1",
+            "responsible": "Miguel",
+            "description": "Loremasjfdaslfga",
+            "priority": "low"
+        },
+        {
+            "tittle": "Tarea 2",
+            "responsible": "Angel",
+            "description": "Loasdasdawaslfga",
+            "priority": "medium"
+        },
+        {
+            "tittle": "Tarea 3",
+            "responsible": "Maira",
+            "description": "Loreasdasslfga",
+            "priority": "high"
+        }
+      
+    ]
+}
